@@ -1,0 +1,6 @@
+{
+  "name": "VoxTube - AI Voice Studio",
+  "description": "AI Text to Voice and Voice Clone studio for YouTube creators with custom accents, pitch, pacing, background music mixing, and viral script hooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
